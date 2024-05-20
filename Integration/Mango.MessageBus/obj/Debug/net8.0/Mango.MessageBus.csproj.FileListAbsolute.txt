@@ -1,0 +1,13 @@
+C:\Repository\Microservices\Integration\Mango.MessageBus\bin\Debug\net8.0\Mango.MessageBus.deps.json
+C:\Repository\Microservices\Integration\Mango.MessageBus\bin\Debug\net8.0\Mango.MessageBus.dll
+C:\Repository\Microservices\Integration\Mango.MessageBus\bin\Debug\net8.0\Mango.MessageBus.pdb
+C:\Repository\Microservices\Integration\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.csproj.AssemblyReference.cache
+C:\Repository\Microservices\Integration\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Microservices\Integration\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.AssemblyInfoInputs.cache
+C:\Repository\Microservices\Integration\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.AssemblyInfo.cs
+C:\Repository\Microservices\Integration\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.csproj.CoreCompileInputs.cache
+C:\Repository\Microservices\Integration\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.sourcelink.json
+C:\Repository\Microservices\Integration\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.dll
+C:\Repository\Microservices\Integration\Mango.MessageBus\obj\Debug\net8.0\refint\Mango.MessageBus.dll
+C:\Repository\Microservices\Integration\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.pdb
+C:\Repository\Microservices\Integration\Mango.MessageBus\obj\Debug\net8.0\ref\Mango.MessageBus.dll
